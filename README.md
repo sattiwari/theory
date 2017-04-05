@@ -1,6 +1,10 @@
 # Theory
 
+## Disk
+
+
 ## Networking
+* TCP Window Scaling
 
 ## G1 Garbage Collection
 * Automatically adjusts to different workloads and provided consistent pause time for garbage collection over the lifetime of the 
